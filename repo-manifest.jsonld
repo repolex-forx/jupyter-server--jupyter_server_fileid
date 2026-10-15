@@ -8,8 +8,9 @@
     {
       "@id": "https://repolex.ai/r/jupyter-server/jupyter_server_fileid/commit/c2902acd44b63a421e7226c3bc8b6856943d4c0d",
       "git:hexsha": "c2902acd44b63a421e7226c3bc8b6856943d4c0d",
-      "repolex:parseStatus": "ast_complete",
-      "git:tagName": "v0.10.0"
+      "repolex:parseStatus": "parsed",
+      "git:tagName": "v0.10.0",
+      "repolex:parsedAt": "2026-10-15T13:42:07.800156+00:00"
     },
     {
       "@id": "https://repolex.ai/r/jupyter-server/jupyter_server_fileid/commit/3c0920430659baa9119b73316dc8993b27f00ab6",
